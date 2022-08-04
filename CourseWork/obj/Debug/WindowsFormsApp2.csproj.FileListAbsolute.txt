@@ -1,0 +1,11 @@
+G:\C#\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+G:\C#\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+G:\C#\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+G:\C#\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form2.resources
+G:\C#\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Brlkmp.resources
+G:\C#\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\CourseWork.exe.config
+G:\C#\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\CourseWork.exe
+G:\C#\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\CourseWork.pdb
+G:\C#\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\CourseWork.Properties.Resources.resources
+G:\C#\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\CourseWork.exe
+G:\C#\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\CourseWork.pdb
