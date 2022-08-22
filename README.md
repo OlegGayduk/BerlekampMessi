@@ -6,3 +6,5 @@
 ![6](https://user-images.githubusercontent.com/63071210/185891401-5fad423d-cb74-4201-bc21-f3b364ce0562.png)
 ![7](https://user-images.githubusercontent.com/63071210/185891405-1c6890c5-922d-478c-a35c-806ee0cdde50.png)
 ![8](https://user-images.githubusercontent.com/63071210/185891407-f79802b3-763f-4b19-9510-79b3a014b304.png)
+![Блок-схема](https://user-images.githubusercontent.com/63071210/185891698-293e7824-ab4a-48f9-b2ec-1e65e1bc53a8.png)
+![polynoms](https://user-images.githubusercontent.com/63071210/185891702-fc73f4c3-3174-4fa5-922c-8993024e1064.png)
